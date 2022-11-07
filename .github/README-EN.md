@@ -22,8 +22,9 @@ Custom <i>made-in-Italy</i> 🇮🇹 <b>hotend</b> with CTcore<sup><i>Copper-Tit
 <h3 align=right>MISCELLANEOUS</h3>
 <p align=right>
   - <b>Dual Z-axis</b> with <i>2x stepper</i><br>
-  - X/Y axis <b>belt tensioner</b> <sup>INCOMING</sup><br>
-  - <b>Silicon</b> bed mounts</p><br><br>
+  - X/Y axis <b>belt tensioner</b><br>
+  - <b>Silicon</b> bed mounts<br>
+  - <i>2x</i> <b>Anycubic AirPure</b> mini air-purifier</p><br><br>
 
 <h1 align=center>ELECTRONICS</h1>
 <table align=center>
