@@ -23,8 +23,9 @@
 <h3 align=right>VARIE</h3>
 <p align=right>
   - <b>Doppio asse Z</b> con <i>2x stepper</i><br>
-  - <b>Tensionatori cinghie</b> asse X/Y <sup>IN ARRIVO</sup><br>
-  - Distanziali piatto in <b>silicone</b></p><br><br>
+  - <b>Tensionatori cinghie</b> asse X/Y<br>
+  - Distanziali piatto in <b>silicone</b><br>
+  - <i>2x</i> mini-purificatori <b>Anycubic AirPure</b></p><br><br>
 
 <h1 align=center>ELETTRONICA</h1>
 <table align=center>
