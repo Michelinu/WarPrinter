@@ -36,8 +36,9 @@
     <tr>
         <td width=500><h2>BIGTREETECH SKR Mini E3 v3 <sub><a href="https://biqu.equipment/products/bigtreetech-skr-mini-e3-v2-0-32-bit-control-board-for-ender-3" target="_blank">LINK</a></sub></h2>
         <b>Scheda madre</b> <i>silenziosa</i> a 64-bit con <b>driver TMC2209</b><br><br>
-        <h4>GESTISCE ANCHE</h4>
-        - Striscia <b>A-RGB NeoPixel</b> da <i>24x LEDs</i> <sub>alimentata da <b>modulo BigTreeTech DCDC V1.0</b></sub><br><br></td>
+  <b>STRISCE LED A-RGB</b> <sub>alimentate da <b>modulo BigTreeTech DCDC V1.0</b></sub><br>
+  - <i>22 LEDs</i> per <b>illuminazione d'ambiente</b> - profilato superiore<br>
+  - <i>3 LEDs</i> per <b>illuminazione stampa</b> - fronte estrusore <br><br></td>
         <td width=600><h2>BIGTREETECH CB1 <sub><a href="https://biqu.equipment/products/pi4b-adapter-v1-0" target="_blank">LINK</a></sub></h2>
         quad-core 64-bit <b>Cortex-A53</b><i>@</i><b>1.5 GHz</b> <i>con</i> <b>1GB DDR3 RAM</b><br>
         su <b>scheda adattatore RPi4</b> <sub>esegue <b>Klipper</b>/<b>Maninsail</b></sub><br>
