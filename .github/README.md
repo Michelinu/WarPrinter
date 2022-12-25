@@ -38,7 +38,7 @@
         <b>Scheda madre</b> <i>silenziosa</i> a 64-bit con <b>driver TMC2209</b><br><br>
   <b>STRISCE LED A-RGB</b> <sub>alimentate da <b>modulo BigTreeTech DCDC V1.0</b></sub><br>
   - <i>22 LEDs</i> per <b>illuminazione d'ambiente</b> - profilato superiore<br>
-  - <i>3 LEDs</i> per <b>illuminazione stampa</b> - fronte estrusore <br><br></td>
+  - <i>3 LEDs</i> per <b>illuminazione stampa</b> - fronte hotend <br><br></td>
         <td width=600><h2>BIGTREETECH CB1 <sub><a href="https://biqu.equipment/products/pi4b-adapter-v1-0" target="_blank">LINK</a></sub></h2>
         quad-core 64-bit <b>Cortex-A53</b><i>@</i><b>1.5 GHz</b> <i>con</i> <b>1GB DDR3 RAM</b><br>
         su <b>scheda adattatore RPi4</b> <sub>esegue <b>Klipper</b>/<b>Maninsail</b></sub><br>
@@ -60,6 +60,6 @@
   - <b>Staffa LCD verticale</b> per Ender 3 / Ender 3 Pro: <a href="https://cults3d.com/en/3d-model/tool/ender-3-and-3-pro-vertical-screen-mount" target="_blank">Cults3D</a><br>
   - <b>Copertura scheda LCD</b> per Ender 3: <a href="https://www.thingiverse.com/thing:2858209/files" target="_blank">Thingiverse</a><br>
   - <b>Fermi cavo display</b> per Ender 3: <a href="https://www.thingiverse.com/thing:2880021" target="_blank">Thingiverse</a><br>
-  - <b>Staffa fissaggio C920</b> su chisura con Lack: <a href="https://www.printables.com/it/model/184104-logitech-c920-lack-enclosure-cam-mount" target="_blank">Printables</a> <sup><b>MODIFICATO</b></sup><br>
+  - <b>Supporto per fotocamera</b> a binario per Ender 3: <a href="https://www.printables.com/it/model/196828-ender-3-v2-rail-slot-camera-mount" target="_blank">Printables</a><br>
   - <b>Ferma cavi con fascette</b> per montaggio a vite: <a href="https://cults3d.com/en/3d-model/various/cable-tie-base-for-screw-fixing" target="_blank">Cults 3D</a><br>
   - <b>Case per Pi4 & convertitore DC/DC</b> con ventola 40mm: <a href="https://www.printables.com/it/model/5112-raspberry-pi-4-case-for-pi-buck-converter-40mm-fan/files" target="_blank">Printables</a> <sup><b>MODIFICATO</b></sup><br>
