@@ -5,7 +5,7 @@
 
 
 @media (max-width: 1700px) {
-  .v-image__image--cover {
+  .v-navigation-drawer__image.v-image__image {
     background-size: 170%;
     height: 170%;
     margin-top: -340px;
