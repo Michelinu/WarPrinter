@@ -1,0 +1,15 @@
+.v-sheet.v-card {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+
+@media (max-width: 1700px) {
+  .v-navigation-drawer__image .v-image__image {
+    background-size: 170%;
+    height: 170%;
+    margin-top: -340px;
+    position: fixed;
+    background-color: black;
+  }
+}
